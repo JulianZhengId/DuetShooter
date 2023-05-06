@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7018a0b6e21c2f345ad22f83a6f117d9, type: 3}
+  m_Name: basic p2
+  m_EditorClassIdentifier: 
+  bulletAmount: -100
+  weaponImage: {fileID: 21300000, guid: baa62137a474ba648b5189a505f1683b, type: 3}
+  bulletPrefab: {fileID: 8869029283277667138, guid: 932c5ae2f4d9f1b4389378ac2b335ce3, type: 3}
+  timeBetweenShoot: 0.15
+  weaponDamage: 1
